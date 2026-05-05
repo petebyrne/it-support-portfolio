@@ -2,7 +2,7 @@
 
 ## Portfolio Project
 
-A web-site designed to shwocase my skills as a developer.
+A web-site designed to shwocase my skills as an IT Support Technician.
 
 ## Technologies
 
