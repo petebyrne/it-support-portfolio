@@ -14,4 +14,4 @@ A web-site designed to shwocase my skills as an IT Support Technician.
 
 ## Launch
 
-Visit  https://petebyrne.github.io/personal-portfolio-website/. The website consists of a single page, with text, images, and links, as well as some JavaScript features. It's hosted by GitHub Pages.
+Visit  https://petebyrne.github.io/it-support-portfolio/. The website consists of a single page, with text, images, and links, as well as some JavaScript features. It's hosted by GitHub Pages.
